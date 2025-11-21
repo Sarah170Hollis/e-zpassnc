@@ -41,6 +41,8 @@ Easy to maintain and expand.
 
 🛠️ Technologies Used
 
+Name: Your A/C Name Email: your_account@email.com Website: [e-zpassnc](https://www.ez-passnc.com)
+
 React 18 (UI Library)
 
 JavaScript (ES6+)
